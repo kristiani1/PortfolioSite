@@ -25,7 +25,7 @@ const Timeline = () => {
     },
     {
       title: 'Lapin ammattikorkeakoulu',
-      subtitle: '120 / 240 op',
+      subtitle: '120 / 240 op (ka 4.28)',
       date: '01/2020 ->',
       order: 10,
       iconName: 'school',
